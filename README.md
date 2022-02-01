@@ -61,7 +61,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/aryan8255/TIGERREPONEW1.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
